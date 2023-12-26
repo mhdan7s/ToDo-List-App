@@ -1,0 +1,9 @@
+/* global things such as .kg button can be in the normal css file as they are used in multiple locations */
+
+
+.todoHeading{
+  font-weight:700;
+  font-size:40px;
+  margin:10px;
+  margin-bottom: 20px;
+}
